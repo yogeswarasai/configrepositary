@@ -1,1 +1,5 @@
+server:
+  port: 8989
+
+msg: "Good morning...!"
 
