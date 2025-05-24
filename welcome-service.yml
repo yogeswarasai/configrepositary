@@ -1,3 +1,4 @@
 server:
-   port:8989
-msg: "good morning...!"
+  port: 8989
+
+msg: "Good morning...!"
